@@ -1,0 +1,23 @@
+# Virtual environments
+.venv/
+venv/
+aircanvas-env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment & OS
+.env
+.DS_Store
+
+# Media / ML models
+*.zip
+*.mp4
+*.avi
+*.h5
+*.pt
+*.onnx
+
+# Node
+node_modules/
